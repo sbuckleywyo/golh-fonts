@@ -1,2 +1,2 @@
 # golh-fonts
-Go For It. Font Set
+GO FOR IT. Font Set
